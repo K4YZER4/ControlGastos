@@ -1,6 +1,4 @@
-﻿using ControlGastos.Logica;
-using ControlGastos.Datos;
-
+﻿using ControlGastos
 Console.WriteLine("Agregar nuevo gasto:");
 Console.Write("Descripción: ");
 string desc = Console.ReadLine();

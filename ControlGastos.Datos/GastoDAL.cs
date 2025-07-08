@@ -1,4 +1,4 @@
-﻿using ControlGastos.Logica;
+﻿using ControlGastos.Entidades;
 using MySql.Data.MySqlClient;
 namespace ControlGastos.Datos
 {

@@ -11,8 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ControlGastos.Logica\ControlGastos.Logica.csproj" />
-    <ProjectReference Include="..\ControlGastos.Presentacion\ControlGastos.Presentacion.csproj" />
+    <ProjectReference Include="..\ControlGastos.Entidades\ControlGastos.Entidades.csproj" />
   </ItemGroup>
 
 </Project>

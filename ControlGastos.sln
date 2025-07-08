@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlGastos.Logica", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlGastos.Presentacion", "ControlGastos.Presentacion\ControlGastos.Presentacion.csproj", "{80FE14DE-533F-4C44-97F3-4B481C404DFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlGastos.Entidades", "ControlGastos.Entidades\ControlGastos.Entidades.csproj", "{93E0A1DF-0D45-4E64-AC79-05888576C647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{80FE14DE-533F-4C44-97F3-4B481C404DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80FE14DE-533F-4C44-97F3-4B481C404DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80FE14DE-533F-4C44-97F3-4B481C404DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93E0A1DF-0D45-4E64-AC79-05888576C647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E0A1DF-0D45-4E64-AC79-05888576C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E0A1DF-0D45-4E64-AC79-05888576C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E0A1DF-0D45-4E64-AC79-05888576C647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
