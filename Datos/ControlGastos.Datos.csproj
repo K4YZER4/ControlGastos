@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\basti\source\repos\ControlGastos\ControlGastos.Presentacion\ControlGastos.Presentacion.csproj" Link="ControlGastos.Presentacion.csproj" />
+  </ItemGroup>
+
+</Project>
