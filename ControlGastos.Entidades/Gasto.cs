@@ -17,12 +17,4 @@
         //}
 
     }
-    public class TestConflicto
-    {
-        public string Saludo()
-        {
-            return "Hola desde rama main";
-        }
-    }
-
 }
