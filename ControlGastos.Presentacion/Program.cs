@@ -41,7 +41,7 @@ GastoManager manager = new GastoManager();
             {
                 Descripcion = "Test",
                 Categoria = "Test",
-                Monto = 80, // Esto debería fallar
+                Monto = -80, // Esto debería fallar
                 Fecha = DateTime.Now
             });
 
