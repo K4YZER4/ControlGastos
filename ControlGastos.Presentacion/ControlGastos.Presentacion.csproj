@@ -11,6 +11,8 @@
     <PackageReference Include="MySql.Data" Version="9.3.0" />
   </ItemGroup>
 	<ItemGroup>
+		<ProjectReference Include="..\ControlGastos.Datos\ControlGastos.Datos.csproj" />
+		<ProjectReference Include="..\ControlGastos.Entidades\ControlGastos.Entidades.csproj" />
 		<ProjectReference Include="..\ControlGastos.Logica\ControlGastos.Logica.csproj" />
 	</ItemGroup>
 
