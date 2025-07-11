@@ -52,3 +52,4 @@ GastoManager manager = new GastoManager();
             Console.WriteLine("✅ Prueba exitosa: monto inválido detectado.");
         }
 //Comentario para ver historial 1
+// Comentario para ver historial 2
